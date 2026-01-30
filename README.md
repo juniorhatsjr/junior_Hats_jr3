@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>daniel_hats_jr</title>
+<title>DANIEL_HATS_JR</title>
 
 <style>
 :root{
@@ -191,7 +191,7 @@ footer a{
 
 <!-- SPLASH -->
 <div id="splash">
-  <h1>JUNIOR HATS JR</h1>
+  <h1>DANIEL_HATS_JR</h1>
   <p>Estilo urbano · Calidad · Presencia</p>
   <button onclick="entrar()">ENTRAR</button>
 </div>
@@ -203,7 +203,7 @@ footer a{
 
 <!-- HEADER -->
 <header>
-  <h1>Junior Hats JR</h1>
+  <h1>DANIEL_HATS_JR</h1>
   <p>La mejor calidad en gorras – Venta al detalle y mayoreo</p>
 </header>
 
